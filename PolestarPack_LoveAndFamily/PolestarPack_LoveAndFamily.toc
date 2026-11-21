@@ -1,0 +1,13 @@
+## Interface: 16001
+## Title: Polestar Community: Of Love and Family
+## Title-zhCN: Polestar 社区指南：爱与家庭
+## Notes-zhCN: 提里奥·弗丁完整任务链，从东瘟疫河畔到壁炉谷护送选奖。
+## Author: Codex
+## Version: 0.1.0
+## Dependencies: Polestar
+## X-Polestar-Pack: love-and-family
+## X-Polestar-Format: 11
+## X-Polestar-Needs: 0.4.1.1
+## X-License: MIT
+
+Guides.lua
